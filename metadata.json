@@ -1,0 +1,5 @@
+{
+  "name": "Kanban Task Board",
+  "description": "A modern, responsive Kanban board with drag-and-drop functionality and local storage.",
+  "requestFramePermissions": []
+}
